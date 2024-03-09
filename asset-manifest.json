@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jjtechwebsite/static/css/main.6598f81a.css",
+    "main.js": "/jjtechwebsite/static/js/main.f9c079de.js",
+    "static/media/tc.png": "/jjtechwebsite/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/meta.jpeg": "/jjtechwebsite/static/media/meta.7e3f88a1b4640d37c922.jpeg",
+    "static/media/logoj.png": "/jjtechwebsite/static/media/logoj.afb4fb479ce9c27507e8.png",
+    "static/media/footer.png": "/jjtechwebsite/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/sd.png": "/jjtechwebsite/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/dg.png": "/jjtechwebsite/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/jjtechwebsite/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/jjtechwebsite/index.html",
+    "main.6598f81a.css.map": "/jjtechwebsite/static/css/main.6598f81a.css.map",
+    "main.f9c079de.js.map": "/jjtechwebsite/static/js/main.f9c079de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6598f81a.css",
+    "static/js/main.f9c079de.js"
+  ]
+}
