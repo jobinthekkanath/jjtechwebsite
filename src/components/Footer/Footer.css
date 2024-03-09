@@ -1,0 +1,113 @@
+.footer{
+    padding: 50px 0px;
+    background-color: #eeeaff;
+    width: 100%;
+    margin-top: auto;
+}
+.footer_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    column-gap: 2rem;
+    background: #eeeaff;
+
+}
+.footer-box{
+    width: 30%;
+
+}
+.footer-box p{
+    line-height: 1.2rem;
+    margin-top: 20px;
+}
+.footer_title{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
+.footer_links{
+    line-height: 28px;
+    color: var(--heading-color);
+}
+.footer_links li a{
+    cursor: pointer;
+}
+.footer_links li a:hover{
+    color: var(--primary-color);
+}
+@media screen and (max-width: 391px){
+    .footer-box{
+        width: 100%;
+    }
+    .footer_title{
+        margin-left: 15px;
+    }
+    .footer_wrapper{
+        flex-direction: column;
+        justify-content: center;
+        column-gap: 0rem;
+    
+    }
+}
+
+
+@media screen and (min-width: 392px)and (max-width: 767px){
+    .footer-box{
+        width: 100%;
+    }
+    .footer_title{
+        margin-left: 15px;
+    }
+    .footer_wrapper{
+        flex-direction: column;
+        justify-content: center;
+        column-gap: 0rem;
+    }
+    .footer-box p{
+        line-height: 2rem;
+        margin-top: 8px;
+    }
+    .footer_title{
+        font-size: 2rem;
+        margin-bottom: 0px;
+        margin-left: 35px;
+    }
+}
+
+@media screen and (min-width: 768px)and (max-width: 1000px){
+    .footer-box{
+        width: 400px;
+    }
+    .footer_title{
+        margin-left: 15px;
+    }
+    
+    .footer-box p{
+        line-height: 2rem;
+        margin-top: 8px;
+    }
+    .footer_title{
+        font-size: 2rem;
+        margin-bottom: 0px;
+        margin-left: 35px;
+    }
+}
+
+@media screen and (min-width: 1001px)and (max-width: 1300px){
+    .footer-box{
+        width: 400px;
+    }
+    .footer_title{
+        margin-left: 15px;
+    }
+    
+    .footer-box p{
+        line-height: 2rem;
+        margin-top: 8px;
+    }
+    .footer_title{
+        font-size: 2rem;
+        margin-bottom: 0px;
+        margin-left: 35px;
+    }
+}
